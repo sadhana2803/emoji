@@ -1,0 +1,119 @@
+ /* .container{   
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 100px;
+    padding: 50px;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: 2px 10px 10px 2px yellow;
+}
+.eyes{
+    border: 2px solid black;
+    height: 100px;
+    transform: rotate(40dg);
+    width: 100x;
+    border-color: black transparent transparent transparent;
+    border-radius: 0px 30px 0px 30px; * */
+ 
+.face{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border-radius: 100%;
+    
+}
+.reye{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    position: absolute;
+    top: 80px;
+    left: 50px;
+    border-radius: 100%;
+}
+.leye{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    position: absolute;
+    top: 80px;
+    left: 130px;
+    border-radius: 100%;
+}
+.mouth{
+    height:30px; 
+    width: 80px;
+    background-color: black;
+    position: absolute;
+    top: 150px;
+    left: 67px;
+    border-radius: 0px 0px 50px 50px;
+    overflow: hidden;    
+}
+.tounge{
+    background-color: red;
+    height: 35px;
+    width: 35px;
+    border-radius: 20px;
+    top: 10px;
+    left: 25px;
+    position: absolute;
+}
+.reye:hover{
+    background-color: red;
+    transform: scale(1);
+}
+.leye:hover{
+    background-color: red;
+    transform: skew(20deg);
+}
+.mouth:hover{
+    transform: rotate(40deg);
+}
+
+.teeth{
+    width: 80px;
+    height: 10px;
+    background-color: aliceblue;
+    top: 150px;
+    left: 67px;
+    position: absolute;
+    border-radius: 0px 0px 10px 10px;
+}
+.eb1{
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+    top: 60px;
+    left: 40px;
+    border-color: black transparent transparent transparent;
+    position: absolute;
+    border-radius: 100%;
+
+}
+.eb2{
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+    top: 60px;
+    left: 117px;
+    border-color: black transparent transparent transparent;
+    position: absolute;
+    border-radius: 100%;
+}
+.nose{
+    height: 20px;
+    width: 20px;
+    border: 2px solid black;
+    top: 110px;
+    left: 95px;
+    border-color: 0px 0px 10px 10xp ;
+    position: absolute;
+    border-radius: 100%;
+    background-color: red;
+    border-color: ;
+}
+.container{
+}
+
